@@ -5,3 +5,6 @@ _ Complete git challenge
 
 _ Urgent: Finish git merge challenge
 _finish git challenge conflict-test
+
+
+keep going - progress is better than perfection
