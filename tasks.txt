@@ -1,2 +1,3 @@
 my to-do List:
 _ meeting with professor at 4PM
+_ Urgent: Finish git merge challenge
