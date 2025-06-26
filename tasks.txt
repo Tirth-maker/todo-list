@@ -1,3 +1,7 @@
 my to-do List:
 _ meeting with professor at 4PM
+
 _ Complete git challenge
+
+_ Urgent: Finish git merge challenge
+_finish git challenge conflict-test
